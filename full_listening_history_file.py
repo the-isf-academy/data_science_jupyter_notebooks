@@ -63,13 +63,6 @@ full_listening_history = [
       "skipped": False
     },
     {
-      "master_metadata_album_album_name": False,
-      "master_metadata_album_artist_name": False,
-      "master_metadata_track_name": False,
-      "ms_played": 1176170,
-      "skipped": False
-    },
-    {
       "master_metadata_album_album_name": "The Times They Are A-Changin'",
       "master_metadata_album_artist_name": "Bob Dylan",
       "master_metadata_track_name": "The Times They Are A-Changin'",
