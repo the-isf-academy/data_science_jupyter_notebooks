@@ -214,7 +214,7 @@ full_listening_history = [
       "master_metadata_album_artist_name": "The Oh Hellos",
       "master_metadata_track_name": "I Was Wrong",
       "ms_played": 264657,
-      "skipped": false
+      "skipped": False
     },
     {
       "master_metadata_album_album_name": "money conversation",
