@@ -137,7 +137,7 @@ full_listening_history = [
       "master_metadata_album_artist_name": "American Authors",
       "master_metadata_track_name": "Believer",
       "ms_played": 183893,
-      "skipped": false
+      "skipped": False
     },
     {
       "master_metadata_album_album_name": "Salad Days",
@@ -200,7 +200,7 @@ full_listening_history = [
       "master_metadata_album_artist_name": "Audrey Assad",
       "master_metadata_track_name": "Ought To Be",
       "ms_played": 178184,
-      "skipped": false
+      "skipped": False
     },
     {
       "master_metadata_album_album_name": "Through the Deep, Dark Valley",
